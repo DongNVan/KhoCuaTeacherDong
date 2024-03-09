@@ -1,0 +1,6 @@
+- DTO: Các thuộc tính của "đối tượng"
+
+- DAO: 	1 Lớp kết nối: Mở kết nối, đóng kết nối, thực thi truy vấn (Thêm, sửa, xóa), đọc dữ liệu (select)
+	1 lớp xuất thông tin ra Grid view + Thêm, sửa, xóa
+
+- BUS: Giống DAO(dòng 2) nhưng thêm bắt lỗi các chức năng
